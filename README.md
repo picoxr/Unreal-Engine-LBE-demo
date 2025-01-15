@@ -1,4 +1,4 @@
-![lbe1](https://github.com/user-attachments/assets/3145e8c8-9a99-4612-a71a-f0bb69eac4b3)# LBE demo
+# LBE demo
 
 The LBEdemo includes simple demonstration of two players in an LBE setup.
 
