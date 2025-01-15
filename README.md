@@ -1,4 +1,4 @@
-# LBE demo
+![lbe1](https://github.com/user-attachments/assets/3145e8c8-9a99-4612-a71a-f0bb69eac4b3)# LBE demo
 
 The LBEdemo includes simple demonstration of two players in an LBE setup.
 
@@ -14,8 +14,7 @@ Below is the demo's development environment:
 | OpenGLES  | 3.1 |
 | Architecture  |Arm 64-bit |
 | PICO Unreal Integration SDK | 3.0.5 |
-| PICO device's system version | 5.12.0 |
-| PICO 4 Enterprise Ultra |
+| PICO 4 Enterprise Ultra | 5.12.0 |
 
 
 ## Quick Start
@@ -25,5 +24,7 @@ Below is the demo's development environment:
 4. Now you can use the sample project.
 
 # Interface
-[Image]
-
+Environment
+![lbe1](https://github.com/user-attachments/assets/15d17242-4aa7-4c8a-833f-f2048bb7356c)
+Options
+![lbe2](https://github.com/user-attachments/assets/a52a46df-53e7-4607-a7f2-69a7e35f3300)
